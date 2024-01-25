@@ -5,6 +5,7 @@ Welcome to my GitHub profile! This repository, titled "Challenge #1: Profile Car
 This is a part of my learning journey through the Udemy course "[The Ultimate React Course 2024: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/)."
 
 ## Profile Card Demo
+<img width="1224" alt="Screenshot 2024-01-25 at 11 06 10" src="https://github.com/AnhtuanUit/react-dev-challenge-profile/assets/13465843/4de40814-e870-409c-a8fe-aa2a98884ffb">
 
 Explore the live demo: [Profile Card Live Demo](https://react-dev-challenge-profile-tuando.netlify.app/)
 
